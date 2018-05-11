@@ -6,7 +6,6 @@ Permalink: /
 ## About me
 ----------------------
 Hello! I am ApfelTV. I make programs and mods, like porting old useful tools to newer OSes for using them without any modification to your system. btw i can speak german. If you want to check out my main GitHub Page, [click here](https://github.com/ApfelTV).
-Feel free to add me on Discord: **ApfelTV™#3724**
 
 -----------------------
 ## Stuff i made:
@@ -27,3 +26,11 @@ Feel free to add me on Discord: **ApfelTV™#3724**
 ### Some shitty Repos by me:
 - [Wii System Menu on the Web](https://apfeltv.github.io/wii-sysmenu/)
 - [Wii Error Codes](https://github.com/ApfelTV/Wii-Error-Documentation)
+
+-----------------------
+## How you can contact me:
+-----------------------
+- **[YouTube](https://www.youtube.com/channel/UCOLOj2NmNeoVxDDm-5s9pZA/)**
+- **[Steam](https://steamcommunity.com/id/ApfelTV)** 
+- **[Twitter](https://twitter.com/RealApfel/)**
+- **Discord: ApfelTV™#3724**
