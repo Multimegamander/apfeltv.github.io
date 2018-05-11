@@ -33,4 +33,4 @@ Hello! I am ApfelTV. I make programs and mods, like porting old useful tools to 
 - **[YouTube](https://www.youtube.com/channel/UCOLOj2NmNeoVxDDm-5s9pZA/)**
 - **[Steam](https://steamcommunity.com/id/ApfelTV)** 
 - **[Twitter](https://twitter.com/RealApfel/)**
-- **Discord: ApfelTV™#3724**
+- **Discord: ApfelTV#3724**
