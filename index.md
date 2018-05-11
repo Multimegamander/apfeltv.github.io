@@ -21,7 +21,7 @@ Feel free to add me on Discord: **ApfelTV™#3724**
 - [3DSUSoundArchiveTool](https://github.com/ApfelTV/3DSUSoundArchiveTool)
 
 ### Repos to that i contribute:
-- [PS4-Guide]
+- [PS4-Guide](https://multimegamander.github.io/Ps4-Guide/)
 - [RiiConnectDolphin](https://dismissedguy.github.io/)
 
 ### Some shitty Repos by me:
