@@ -5,10 +5,10 @@ Permalink: /
 ----------------------
 ## About me
 ----------------------
-Hello! I am ApfelTV. I make programs and mods, like porting old useful tools to newer OSes for using them without any modification to your system. btw i can speak german. If you want to check out my main GitHub Page, [click here](https://github.com/ApfelTV).
+Hello! I am ApfelTV. I make programs and mods, like porting old useful tools to newer Operating Systems for using them without any modification to your system. I also speak German. If you want to check out my main GitHub Page, [click here](https://github.com/ApfelTV).
 
 -----------------------
-## Stuff i made:
+## Stuff that I made:
 -----------------------
 ### Programs and Mods:
 - [COMDLG32.ocx Installer](https://github.com/ApfelTV/COMDLG32-Installer) - Install the COMDLG32.ocx on your computer easy.
@@ -18,11 +18,11 @@ Hello! I am ApfelTV. I make programs and mods, like porting old useful tools to 
 - [Auto-DSiWare-Patcher](https://github.com/ApfelTV/Auto-DSiWare-Patcher) - Patch your .nds and .app files easily. This Patcher patches your DS Game/DSiWare Online Service URLs with the URLs from [Wimmfi](http://wimmfi.de) so you can play them Online again, if Wimmfi supports them.
 - [EVCPatcher](https://github.com/ApfelTV/EVCPatcher) - An easy EVC Patching solution. Downloads the EVC for you, patches it with a RiiConnect24 patch and you got a working RC24-EVC!
 
-### Programs that i compiled for you that dont got compiled from the Creator:
+### Programs that I compiled for you that didn't get compiled from the Creator:
 - [3dsutils](https://github.com/ApfelTV/3dsutils) - dump shared fonts and need files for Citra.
 - [3DSUSoundArchiveTool](https://github.com/ApfelTV/3DSUSoundArchiveTool) - convert or modify sounds in various file standards used by the WiiU and 3DS. 
 
-### Repos to that i contribute:
+### Repos to that I contributed to:
 - [PS4-Guide](https://multimegamander.github.io/Ps4-Guide/)
 - [RiiConnectDolphin](https://dismissedguy.github.io/)
 
