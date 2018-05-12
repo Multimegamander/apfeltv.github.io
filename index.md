@@ -13,6 +13,7 @@ Hello! I am ApfelTV. I make programs and mods, like porting old useful tools to 
 ### Programs and Mods:
 - [COMDLG32.ocx Installer](https://github.com/ApfelTV/COMDLG32-Installer/releases/latest) - Install the COMDLG32.ocx on your computer easy.
 - [Wii ISO Renamer](https://github.com/ApfelTV/Wii-ISO-Renamer-mod/releases/latest/) - A Program to edit the Name and GameID of your Wii ISO/WBFS.
+- [bin2nds & ndsapp2cia](https://github.com/ApfelTV/bin2nds-ndsapp2cia/releases/latest) - Convert you DSiWare .bin files from your DSi into a NDS. Convert NDS and/or APP from DSiWares into CIA for 3DS.
 
 ### Patcher:
 - [Auto-DSiWare-Patcher](https://github.com/ApfelTV/Auto-DSiWare-Patcher/releases/latest/) - Patch your .nds and .app files easily. This Patcher patches your DS Game/DSiWare Online Service URLs with the URLs from [Wimmfi](http://wimmfi.de) so you can play them Online again, if Wimmfi supports them.
